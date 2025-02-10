@@ -1,18 +1,18 @@
 #+begin_example
 -Timon:
 Hakuuna Matata
-Ma che dolce poesia?
+Ma che dolce poesiia?
 -Pumbaa:
 Hakuna Matata
 Tutta frenesiiia!
 -Coro:
-Senza Pensieri
-La tua vita saràà
+Senza pensierii
+La tua vita sarààà
 -CoroPumbaa:
-Chi vorrà vivràà
-In libertàà
+Chi vorrà vivrààà
+In libertààà
 -Coro:
-Hakuna Matataa
+Hakuna Matataaa
 
 -Simba: Hakuna Matata?
 -Pumbaa: È il nostro motto.
@@ -21,7 +21,7 @@ Hakuna Matataa
 -TimonPumbaa: Ahahahaha
 -Pumbaa: Sai ragazzo! Due magiche parole contro tuutti i problemi.
 -Timon: Esatto! Prendi Pumbaa per esempio:
-da piccolo, lui era una gran beltàà!
+da piccolo; lui era una gran beltàà!
 -Pumbaa: Ma propio una raritàà! ^
 -Timon: Molto bene!
 -Pumbaa: Grazie.
@@ -38,7 +38,7 @@ Ma ero affranto, propio a causa di quel mio puuuzzo
 -Timon: Perchè soffrivi?
 -Pumbaa: Mi sentivo sbeffeggiare!
 -Timon: E allora che facevi?
--Pumbaa: Cominciavo a Scorre!
+-Pumbaa: Cominciavo a scorre******
 -Timon: No Pumbaa, non davanti ai bambini!
 -Pumbaa: Oh, scusa.
 
@@ -48,10 +48,10 @@ Sembra quasi poesiia
 Hakuna Matata
 Tutta frenesiiia
 -Coro: ^
-Senza pensierii la tua vita saràà!
-Chi vorrà vivràà
--Coro Pumbaa:
-In libertàà
+Senza pensierii la tua vita sarààà
+Chi vorrà vivrààà
+-CoroPumbaa:
+In libertààà
 Hakuna Matataa
 
 (Hakuna Matata, Hakuna Matata...)
