@@ -1,4 +1,4 @@
-Meglio mettere lo smartphone in orizzontale.
+metti lo smartphone in orizzontale:
 
 #+begin_example
 -timon:
@@ -56,8 +56,4 @@ tutta frenesiiia!
 -simbatimonpumbaa: hakuna matataa
 
 (hakuna matata, hakuna matata...)
-#+end_example>
-
-[[file:original.mp4][original]]
-
-[[file:instrumental.mp4][instrumental]]
+#+end_example
