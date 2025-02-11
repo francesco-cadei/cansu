@@ -1,57 +1,63 @@
+Meglio mettere lo smartphone in orizzontale.
+
 #+begin_example
--Timon:
-Hakuuna Matata
-Ma che dolce poesiia?
--Pumbaa:
-Hakuna Matata
-Tutta frenesiiia!
--Timon:
-Senza pensierii
-La tua vita sarààà
--TimonPumbaa:
-Chi vorrà vivrààà
-In libertààà
--Timon:
-Hakuna Matataaa
+-timon:
+hakuuna matata
+ma che dolce poesiia?
+-pumbaa:
+hakuna matata
+tutta frenesiiia!
+-timon:
+senza pensierii
+la tua vita sarààà
+-timonpumbaa:
+chi vorrà vivrààà
+in libertààà
+-timon:
+hakuna matataaa
 
--Simba: Hakuna Matata?
--Pumbaa: È il nostro motto.
--Simba: Che cos'è un motto?
--Timon: Niente, è un matto col botto!
--TimonPumbaa: Ahahahaha
--Pumbaa: Sai ragazzo!
-Due magiche parole contro tuutti i problemi.
--Timon: Esatto! Prendi Pumbaa per esempio:
+-simba: hakuna matata?
+-pumbaa: è il nostro motto.
+-simba: che cos'è un motto?
+-timon: niente, è un matto col botto!
+-timonpumbaa: ahahahaha
+-pumbaa: sai ragazzo!
+due magiche parole contro tuutti i problemi.
+-timon: esatto! prendi pumbaa per esempio:
 da piccolo; lui era una gran beltààà!
--Pumbaa: Ma propio una raritààà! ^
--Timon: Molto bene!
--Pumbaa: Grazie.
+-pumbaa: ma propio una raritààà! ^
+-timon: molto bene!
+-pumbaa: grazie.
 
--Timon:
-Ma dopo ogni pranzo lui puzzava di più
-Tutti quanti svenivano e cadevano giù
--Pumbaa:
-Io ho l'animo sensibile, sembro tutto d'un peezzo
-Ma ero affranto, propio a causa di quel mio puuuzzo
--Pumbaa: Eau, che vergogna! ^
--Timon: Si vergognava
--Pumbaa: E volevo cambiar nome! ^
--Timon: Perchè soffrivi?
--Pumbaa: Mi sentivo sbeffeggiare!
--Timon: E allora che facevi?
--Pumbaa: Cominciavo a scorre******
--Timon: No Pumbaa, non davanti ai bambini!
--Pumbaa: Oh, scusa.
+-timon:
+ma dopo ogni pranzo lui puzzava di più
+tutti quanti svenivano e cadevano giù
+-pumbaa:
+io ho l'animo sensibile, sembro tutto d'un peezzo
+ma ero affranto, propio a causa di quel mio puuuzzo
+-pumbaa: eau, che vergogna! ^
+-timon: si vergognava
+-pumbaa: e volevo cambiar nome! ^
+-timon: perchè soffrivi?
+-pumbaa: mi sentivo sbeffeggiare!
+-timon: e allora che facevi?
+-pumbaa: cominciavo a scorre******
+-timon: no pumbaa, non davanti ai bambini!
+-pumbaa: oh, scusa.
 
--TimonPumbaa:
-Hakuna Matataa
-Sembra quasi poesiia
-Hakuna Matata
-Tutta frenesiiia!
--Simba: Senza pensierii la tua vita sarààà ^
--SimbaTimon: Chi vorrà vivrààà ^
--Pumbaa: In libertààà
--SimbaTimonPumbaa: Hakuna Matataa
+-timonpumbaa:
+hakuna matataa
+sembra quasi poesiia
+hakuna matata
+tutta frenesiiia!
+-simba: senza pensierii la tua vita sarààà ^
+-simbatimon: chi vorrà vivrààà ^
+-pumbaa: in libertààà
+-simbatimonpumbaa: hakuna matataa
 
-(Hakuna Matata, Hakuna Matata...)
+(hakuna matata, hakuna matata...)
 #+end_example>
+
+[[file:original.mp4][original]]
+
+[[file:instrumental.mp4][instrumental]]
