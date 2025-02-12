@@ -1,4 +1,4 @@
-metti lo smartphone in orizzontale:
+meglio mettere lo smartphone in orizzontale:
 
 #+begin_example
 -timon:
