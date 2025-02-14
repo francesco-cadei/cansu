@@ -1,6 +1,7 @@
 meglio mettere lo smartphone in orizzontale:
 
 #+begin_example
+INIZIO_CORO
 -timon:
 hakuuna matata
 ma che dolce poesiia?
@@ -15,6 +16,7 @@ chi vorrà vivrààà
 in libertààà
 -timon:
 hakuna matataaa
+FINE_CORO
 
 -simba: hakuna matata?
 -pumbaa: è il nostro motto.
@@ -45,6 +47,7 @@ ma ero affranto, propio a causa di quel mio puuuzzo
 -timon: no pumbaa, non davanti ai bambini!
 -pumbaa: oh, scusa.
 
+INIZIO_CORO
 -timonpumbaa:
 hakuna matataa
 sembra quasi poesiia
@@ -54,6 +57,7 @@ tutta frenesiiia!
 -simbatimon: chi vorrà vivrààà ^
 -pumbaa: in libertààà
 -simbatimonpumbaa: hakuna matataa
+FINE_CORO
 
 (hakuna matata, hakuna matata...)
 #+end_example
