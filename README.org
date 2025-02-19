@@ -1,5 +1,8 @@
 meglio mettere lo smartphone in orizzontale:
 
+[[file:original.mov]]
+[[file:instrumental.mov]]
+
 #+begin_example
 INIZIO_CORO
 -timon:
