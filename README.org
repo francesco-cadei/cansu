@@ -4,13 +4,13 @@ meglio mettere lo smartphone in orizzontale:
 [[file:instrumental.mov]]
 
 #+begin_example
-INIZIO_CORO
 -timon:
 hakuuna matata
 ma che dolce poesiia?
 -pumbaa:
 hakuna matata
 tutta frenesiiia!
+INIZIO_CORO
 -timon:
 senza pensierii
 la tua vita sarààà
